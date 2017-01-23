@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#brie-coyle-card {
+  background-image: url("http://imgur.com/hmFYm2c");
+}
+
+#brie-coyle-cover {
+  background-image: url("http://imgur.com/QNA2W1Z");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
